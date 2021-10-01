@@ -72,7 +72,7 @@ nav.mobile-menu ul li:hover{
 nav.mobile-menu ul li a{
 	color: black;
 	text-decoration: none;
-}
+}s
 
 header .logo{
 	position: relative;
@@ -80,7 +80,7 @@ header .logo{
 	float: left;
 	width: 160px;
 	height: 40px;
-	background-image: url('../imagens/logo-danki.png');
+	background-image: url('../imagens/logo-generic.png');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
